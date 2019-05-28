@@ -86,7 +86,7 @@ export default class Carousel extends Component {
         enableSnap: true,
         firstItem: 0,
         hasParallaxImages: false,
-        inactiveSlideOpacity: 0.7,
+        inactiveSlideOpacity: 0.4,
         inactiveSlideScale: 0.9,
         inactiveSlideShift: 0,
         layout: 'default',
